@@ -1,0 +1,6 @@
+.searchContainer {
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+  padding-top: 1vh;
+}
